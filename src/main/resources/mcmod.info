@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toxicenv",
+  "name": "Toxic Environments",
+  "description": "A mod that makes the environments kill you, but at least gives you a fighting chance.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlgorithmX2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

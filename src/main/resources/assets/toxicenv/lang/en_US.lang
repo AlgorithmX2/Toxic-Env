@@ -1,0 +1,4 @@
+itemGroup.mod.toxicenv=Toxic Environments
+
+item.toxicenv.Breather.name=Personal Breather
+item.toxicenv.AirTank.name=Personal Air Tank
