@@ -1,0 +1,4 @@
+itemGroup.mod.toxicenv=Environements toxiques
+ 
+item.toxicenv.Breather.name=Respirateur individuel 
+item.toxicenv.AirTank.name=Bouteilles d'air individuelles
